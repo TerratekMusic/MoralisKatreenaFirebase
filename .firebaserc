@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "moralisappkatreena"
+  },
+  "targets": {},
+  "etags": {
+    "moralisappkatreena": {
+      "extensionInstances": {
+        "moralis-auth": "3d2707ee4458f4cb743650b98405cc7a74539b9ac96ccdf651fc02e9984bb568"
+      }
+    }
+  }
+}
