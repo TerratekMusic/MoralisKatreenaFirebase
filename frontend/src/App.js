@@ -6,13 +6,7 @@ import { signInWithMoralis } from '@moralisweb3/client-firebase-evm-auth';
 import { getAuth } from '@firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyABjP0WGcU7Q6kQVEx5xLaS0LE2qxYrWA0",
-    authDomain: "moralisappkatreena.firebaseapp.com",
-    projectId: "moralisappkatreena",
-    storageBucket: "moralisappkatreena.appspot.com",
-    messagingSenderId: "388393713335",
-    appId: "1:388393713335:web:8de36d4270f647e8afd732",
-    measurementId: "G-R4L63KB0XT"
+   //////
 };
 
 const app = initializeApp(firebaseConfig);
